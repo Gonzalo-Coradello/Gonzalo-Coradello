@@ -2,8 +2,8 @@
 #### Full Stack Developer from Argentina 🚀
 I'm passionate about coding. I love to create solutions and bring proyects to life. <br></br>
 I have solid Front End experience, having worked at several personal projects. <br></br>
-I'm currently working on my biggest proyect: a Full Stack Ecommerce. <br></br>
-My current goal is to get my first job as a Web Developer, as well as keep learning and building projects.
+I'm currently working on my biggest proyect: a Full Stack Ecommerce. 👨‍💻 <br></br>
+My current goal is to get my first job as a Web Developer, as well as keep learning and building projects. ✨
 ___
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br></br>
