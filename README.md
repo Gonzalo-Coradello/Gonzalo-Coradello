@@ -2,7 +2,7 @@
 #### Full Stack Developer from Argentina 🚀
 I'm passionate about coding. I love to create solutions and bring proyects to life. <br></br>
 I have solid Front End experience, having worked at several personal projects. <br></br>
-I'm currently working on my biggest proyect: a Full Stack Ecommerce. 👨‍💻 <br></br>
+I'm currently working on my biggest proyect: a Full Stack Ecommerce. <br></br>
 My current goal is to get my first job as a Web Developer, as well as keep learning and building projects. ✨
 ___
 # 💻 Tech Stack:
