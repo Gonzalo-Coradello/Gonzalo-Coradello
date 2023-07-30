@@ -3,8 +3,10 @@
 I'm passionate about coding. I love to create solutions and bring proyects to life.  
 I have solid Front End and Back End experience, having worked at several projects. I also have experience building mobile applications with React Native.  
 I am currently learning ASP.NET and Angular.  
-My goal is to keep growing in my career as a software developer, as well as keep learning and building projects. ✨
+My goal is to keep growing in my career as a software developer, as well as keep learning and building projects. ✨  
+
 ___
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,6 +33,74 @@ ___
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ___
+
+# Take a look at my projects </>
+
+## Portfolio
+My developer portfolio, created with React and TailwindCSS.  
+**[GitHub](https://github.com/Gonzalo-Coradello/portfolio)** • **[Website](https://gonzalocoradello.vercel.app)**  
+
+## Home Banking (in progress)
+Home Banking web API developed with ASP.NET Core, Entity Framework and Microsoft SQL Server.  
+This is my first .NET application and it's my project for Accenture's .NET Bootcamp.  
+**[GitHub](https://github.com/Gonzalo-Coradello/HomeBanking)**  
+
+## Crumbly (in progress)
+Mobile recipe app created with React Native, TypeScript, Firebase and Redux Toolkit.  
+**[GitHub](https://github.com/Gonzalo-Coradello/crumbly-app)**  
+
+## TechStore (in progress)
+Mobile e-commerce developed with React Native, Firebase and Redux Toolkit.  
+**[GitHub](https://github.com/Gonzalo-Coradello/techstore_react-native)**  
+
+## the mistery fox
+The mistery fox is a book boutique which offers an unique experience. Full-Stack MERN e-commerce with user authentication.  
+**[GitHub (Frontend)](https://github.com/Gonzalo-Coradello/the-mistery-fox_ecommerce)** • **[GitHub (Backend)](https://github.com/Gonzalo-Coradello/the-mistery-fox_backend)** • **[Website](https://themisteryfox.vercel.app)**  
+
+## Full Stack Open
+My projects for University of Helsinki's course.  
+**[GitHub](https://github.com/Gonzalo-Coradello/full-stack-open)**  
+
+## ZARA for men
+E-commerce inspired by ZARA, one of the biggest international fashion companies. Developed with React and Firebase.  
+**[GitHub](https://github.com/Gonzalo-Coradello/zara-for-men_ecommerce)** • **[Website](https://zara-for-men.vercel.app)**  
+
+## Pokéteams
+Pokédex developed with Next.js 13, TypeScript, Prisma and PostgreSQL.  
+**[GitHub](https://github.com/Gonzalo-Coradello/poketeams)** • **[Website](https://poketeams-nextjs.vercel.app)**  
+
+## Bloglist
+Full Stack application created with MongoDB, Express, React, Node.js, Redux Toolkit and Material UI. It features testing on both the client and the server, as well as End to End tests with Cypress. Final project for Full Stack Open's core course.   
+**[GitHub](https://github.com/Gonzalo-Coradello/bloglist-mern)** • **[Website](https://bloglist-fullstack-ag00.onrender.com)**  
+
+## GBM Ingeniería y Ambiente
+Website for a client, developed with React. I worked as a team with another developer and a team of UX/UI designers.  
+**[GitHub](https://github.com/Gonzalo-Coradello/gbm-ingenieria-ambiente)**  
+
+## BLACKCOFFEE
+E-commerce for BLACKCOFFEE, high quality coffee roasters. Their mission is that you can enjoy the best coffee from the comfort of your home.  
+Interactive website developed with HTML, CSS and JavaScript.  
+**[GitHub](https://github.com/Gonzalo-Coradello/blackcoffee-ecommerce)** • **[Website](https://blackcoffee-store.netlify.app)**  
+
+## Task Manager
+Simple task management app developed with React Native.  
+**[GitHub](https://github.com/Gonzalo-Coradello/react-native_task-manager)**  
+
+## Angular projects
+Projects created following Angular documentation's tutorials.  
+**[Homes](https://github.com/Gonzalo-Coradello/angular-homes)** • **[Tour of Heroes](https://github.com/Gonzalo-Coradello/angular-tour-of-heroes)** • **[Online Store](https://github.com/Gonzalo-Coradello/angular-online-store)**  
+
+## freeCodeCamp
+My solutions for freeCodeCamp's JavaScript Algorithms and Data Structures projects.  
+**[GitHub](https://github.com/Gonzalo-Coradello/freeCodeCamp-algorithms-projects)**  
+
+## To-do app
+Full-Stack to-do app with user authentication. Developed with MongoDB, Express, React, Node.js and Material UI.  
+**[https://github.com/Gonzalo-Coradello/to-do_mern](https://to-do-mern.vercel.app)**  
+
+___
+
 ### Visit my [portfolio](https://gonzalocoradello.vercel.app/) 💻
-### Lets get in touch! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gonzalo-coradello/)
+### Lets get in touch! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-coradello/)
