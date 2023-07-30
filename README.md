@@ -80,8 +80,7 @@ Website for a client, developed with React. I worked as a team with another deve
 **[GitHub](https://github.com/Gonzalo-Coradello/gbm-ingenieria-ambiente)**  
 
 ## BLACKCOFFEE
-E-commerce for BLACKCOFFEE, high quality coffee roasters. Their mission is that you can enjoy the best coffee from the comfort of your home.  
-Interactive website developed with HTML, CSS and JavaScript.  
+E-commerce for BLACKCOFFEE, high quality coffee roasters. Their mission is that you can enjoy the best coffee from the comfort of your home. Interactive website developed with HTML, CSS and JavaScript.  
 **[GitHub](https://github.com/Gonzalo-Coradello/blackcoffee-ecommerce)** • **[Website](https://blackcoffee-store.netlify.app)**  
 
 ## Task Manager
