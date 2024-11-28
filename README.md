@@ -1,8 +1,10 @@
 # Hi! I'm Gonzalo 👋
-### Full Stack Developer from Argentina 🚀
-I am a Full Stack developer specialized in React, Node.js and ASP.NET. I have solid experience in Front End, Back End and mobile development.  
-I'm passionate about coding. I love to create solutions and bring proyects to life.  
-My goal is to keep growing in my career as a software developer, as well as keep learning and building projects. ✨  
+### Full Stack and Mobile Developer based in Argentina 🚀
+I'm a Full Stack Developer specialized in React Native, Node.js, and .NET, with extensive experience in developing mobile and web applications.  
+
+I have been responsible for the complete development of three mobile applications, from the initial stage to production, and have created multiple websites for various clients. Additionally, I have worked on maintaining large-scale enterprise applications and mentored new developers, helping them effectively integrate into projects.  
+
+Focused on delivering efficient and high-quality solutions, with a strong commitment to collaborative work to ensure project success.
 
 ___
 
